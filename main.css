@@ -1,3 +1,9 @@
 h1 {
     background-color: aqua;
 }
+
+li {
+    display: inline-block;
+    margin-right: 20px;
+    text-decoration: none;
+}
